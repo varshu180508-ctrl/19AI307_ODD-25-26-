@@ -32,10 +32,10 @@ To write a Java program that demonstrates the use of variables, data types, oper
 
 <p align="center">
   👨‍💻 <b>Developed By:</b><br>
-  <b>SRIDHAR C</b>
+  <b>DHANVARSINI S</b>
   <br><br>
   🆔 <b>Register Number:</b><br>
-  <b>212225040425</b>
+  <b>212225240032</b>
 </p>
 
 <hr>
